@@ -39,4 +39,9 @@ body{
         text-align: justify;
         height: 200px;
     display: inline-block;
+    .picture{
+        width:30%;
+        height: 30%;
+        display:inline-block;
+    }
     }
