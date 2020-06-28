@@ -42,8 +42,8 @@ body{
     }
     .picture{ 
         width: 30%;
-        height:300px;
-        display: inline-block;
+        height:30%;
+        display: inline;
         margin:10px;
         padding: 5px;
 
